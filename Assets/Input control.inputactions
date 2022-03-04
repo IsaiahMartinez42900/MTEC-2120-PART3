@@ -1,0 +1,44 @@
+{
+    "name": "Input control",
+    "maps": [
+        {
+            "name": "MDI Input",
+            "id": "df563a7e-d8ec-496e-9ef8-bd0bb7de9b1a",
+            "actions": [
+                {
+                    "name": "C note",
+                    "type": "Button",
+                    "id": "e66a0733-865d-44aa-aa0c-5027a0072ed8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c1696fe0-9cf7-4f7f-8c19-5342ac4cd84e",
+                    "path": "<Keyboard>/c",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "C note",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "87de87a8-5e58-40f5-ae8d-da21e00da9b4",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "C note",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
